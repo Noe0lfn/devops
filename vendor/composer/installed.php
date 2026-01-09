@@ -3,7 +3,7 @@
         'name' => 'etudiant/projet-php-devops',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '27489f3b20d3fc4756f9137247bec48a2a509724',
+        'reference' => 'f0455ae9496b4302e16dcb38fa744d0bf2b28fdd',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'etudiant/projet-php-devops' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '27489f3b20d3fc4756f9137247bec48a2a509724',
+            'reference' => 'f0455ae9496b4302e16dcb38fa744d0bf2b28fdd',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
